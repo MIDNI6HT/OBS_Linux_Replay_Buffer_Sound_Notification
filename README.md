@@ -11,7 +11,7 @@ A simple Lua script which plays a .wav sound whenever replay buffer is saved, en
 
 Ensure that the sound file is in a format supported by the utility (e.g., .wav for aplay and .wav/.ogg for paplay).
 
-2. Use the sounds in the repo or any .wav sound but make sure to match its name either in "BReplay_Buffer_Sound.lua" (edit with any text editor) or rename your .wav files.
+2. Use the sounds in the repo or any .wav sound but make sure to match its name either in "Replay_Buffer_Sound.lua" (edit with any text editor) or rename your .wav files.
 
 3. Put it in the same location with "Replay_Buffer_Sound.lua"
    - A good way is to create a separate "scripts" folder in your Home and keep all your scripts there in case you need to backup your OBS Settings.
