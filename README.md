@@ -1,4 +1,4 @@
-# OBS_Linux_Replay_Buffer_Sound_Notification
+# OBS Linux Replay Buffer Sound Notifications
 A simple Lua script which plays a .wav sound whenever replay buffer is saved, enabled or disabled adapted for Linux support using PulseAudio or ALSA.
 
 ## Installation
